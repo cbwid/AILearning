@@ -1,3 +1,2 @@
-# vscode-demo
-# practicalAI
-# practicalAI
+# 用来记录人工智能的学习过程
+
